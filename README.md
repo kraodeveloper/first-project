@@ -1,2 +1,2 @@
 # first-project
-first project with new github count by gmail
+first project with new github account by gmail
